@@ -1,2 +1,2 @@
 # metasploit-modules
-Various Metasploit Modules
+Various Metasploit Modules 🍿
